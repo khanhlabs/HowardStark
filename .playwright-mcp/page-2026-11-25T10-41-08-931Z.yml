@@ -1,0 +1,59 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Howard" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - navigation [ref=e6]:
+        - list [ref=e7]:
+          - listitem [ref=e8]:
+            - link "Home" [ref=e9] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e10]:
+            - link "About" [ref=e11] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e12]:
+            - link "Work" [ref=e13] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e14]:
+            - link "Service" [ref=e15] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e16]:
+            - link "Blog" [ref=e17] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e18]:
+            - link "Contact" [ref=e19] [cursor=pointer]:
+              - /url: "#"
+        - link "howard@gmail.com" [ref=e20] [cursor=pointer]:
+          - /url: "#"
+  - generic [ref=e22]:
+    - img "Howard Stark" [ref=e23]
+    - generic [ref=e24]:
+      - paragraph [ref=e27]: Visual Designer Webflow Developer
+      - heading "Hello, I’m Howard Stark." [level=1] [ref=e28]
+      - paragraph [ref=e29]: Hello, I'm a passionate Visual Designer, Webflow Developer and part time freelancer with a keen eye for details.
+      - generic [ref=e30]:
+        - link "Say Hello" [ref=e31] [cursor=pointer]:
+          - /url: "#"
+        - link "View Portfolio" [ref=e32] [cursor=pointer]:
+          - /url: "#"
+  - generic [ref=e34]:
+    - generic [ref=e35]:
+      - heading "I work with 524+ big companies worldwide." [level=2] [ref=e36]
+      - paragraph [ref=e37]: I specialize in UI/UX & Graphic Design and my passion is all about building elegant and professional user interfaces.
+    - list [ref=e38]:
+      - listitem [ref=e39]
+      - listitem [ref=e40]
+      - listitem [ref=e41]
+      - listitem [ref=e42]
+      - listitem [ref=e43]
+      - listitem [ref=e44]
+  - generic [ref=e46]:
+    - generic [ref=e47]:
+      - heading "What my clients say about my work!" [level=2] [ref=e48]
+      - generic [ref=e49]:
+        - paragraph [ref=e50]: “Great Designer, does great work and is very flexible with change. if you’re a programmer and are looking for UI/UX designer is definitely well qualified for the job.”
+        - generic [ref=e51]:
+          - strong [ref=e52]: James Quincey
+          - generic [ref=e53]: CEO of Coca ColA
+      - button [ref=e55]
+    - img "Howard Stark" [ref=e56]

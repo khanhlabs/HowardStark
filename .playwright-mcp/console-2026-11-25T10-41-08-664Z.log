@@ -1,0 +1,3 @@
+[     261ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8765/favicon.ico:1
+[   52598ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8765/src/images/icons/testimonials-icon-black-caret-left.svg:1
+[   52598ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8765/src/images/icons/testimonials-icon-white-caret-left.svg:1
